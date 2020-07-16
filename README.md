@@ -22,21 +22,21 @@ See [watchngo.sample.ini](watchngo.sample.ini) configuration example.
 
 ### Binary
 
-Checkout the [releases](https://github.com/Leryan/watchngo/releases) binaries and put it somewhere in your `$PATH`.
+Checkout the [releases](https://github.com/LTGRP/watchngo/releases) binaries and put it somewhere in your `$PATH`.
 
 Quick win with the latest release:
 
 ```
-sudo wget https://github.com/Leryan/watchngo/releases/download/1.2.0/watchngo -O /usr/local/bin/watchngo
-sudo chmod 755 /usr/local/bin/watchngo
+wget https://github.com/LTGRP/watchngo/releases/download/1.2.0/watchngo -O /usr/local/bin/watchngo
+chmod 755 /usr/local/bin/watchngo
 ```
 
 ### Build from sources
 
 ```
-mkdir -p $GOPATH/src/github.com/Leryan
-cd $GOPATH/src/github.com/Leryan
-git clone https://github.com/Leryan/watchngo
+mkdir -p $GOPATH/src/github.com/LTGRP
+cd $GOPATH/src/github.com/LTGRP
+git clone https://github.com/LTGRP/watchngo
 
 cd watchngo
 
@@ -47,6 +47,3 @@ make
 make install
 ```
 
-## Bugs, questions, suggestions?
-
-Ask [on github](https://github.com/Leryan/watchngo/issues).
