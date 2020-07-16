@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/Leryan/watchngo/pkg/conf"
-	"github.com/Leryan/watchngo/pkg/watcher"
+	"github.com/LTGRP/watchngo/pkg/conf"
+	"github.com/LTGRP/watchngo/pkg/watcher"
 
 	"flag"
 )
