@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Leryan/watchngo/pkg/watcher"
+	"github.com/LTGRP/watchngo/pkg/watcher"
 
 	"github.com/go-ini/ini"
 )
