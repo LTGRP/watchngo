@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/LTGRP/watchngo/pkg/utils"
-	"github.com/fsnotify/fsnotify"
+	"github.com/LTGRP/fsnotify"
 )
 
 // Watcher ...
