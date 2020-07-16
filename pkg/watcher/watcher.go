@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Leryan/watchngo/pkg/utils"
+	"github.com/LTGRP/watchngo/pkg/utils"
 	"github.com/fsnotify/fsnotify"
 )
 
